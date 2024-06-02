@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1nitsu&show_icons=true&locale=en" alt="sh1nitsu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1nitsu&" alt="sh1nitsu" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sh1nitsu)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1nitsu" alt="sh1nitsu" /></p>
+
